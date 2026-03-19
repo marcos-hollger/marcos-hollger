@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1> Hi there! :wave: I'm Marcos, a fullstack developer.</h1>
-<img src="https://komarev.com/ghpvc/?username=wesborland-github&label=Profile%20views&color=0e75b6&style=flat" alt="wesborland-github" ></img>
+<img src="https://komarev.com/ghpvc/?username=marcos-hollger&label=Profile%20views&color=0e75b6&style=flat" alt="marcos-hollger" ></img>
 <br>
 
 </div>
@@ -11,7 +11,7 @@
 
 <br>
 
-- :credit_card: My full name is **Marcos Javier Gómez Hollger**. <img src="https://media.giphy.com/media/nrxsKSeEuBUnAZKXQj/giphy.gif" width="200" align="right"></img>
+- :credit_card: My name is **Marcos Hollger**. <img src="https://media.giphy.com/media/nrxsKSeEuBUnAZKXQj/giphy.gif" width="200" align="right"></img>
 - :school: I'm currently graduated at **I.S.P.C. - Instituto Superior Politécnico de Córdoba**.
 - :books: My major is **WEB AND DIGITAL APPLICATIONS DEVELOPMENT SPECIALIST**.
 - :earth_asia: I'm living now in **Córdoba, Argentina**.
@@ -78,8 +78,8 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesborland-github&layout=compact&show_icon=true&theme=algolia" alt="wesborland-github-langs" height="150em"/>
-<img src="https://github-readme-stats.vercel.app/api/?username=wesborland-github&layout=compact&show_icon=true&theme=algolia" alt="wesborland-github-stats" height="150em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-hollger&layout=compact&show_icon=true&theme=algolia" alt="wesborland-github-langs" height="150em"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=marcos-hollger&layout=compact&show_icon=true&theme=algolia" alt="marcos-hollger-stats" height="150em"/>
 </div>
 <br>
 
@@ -92,7 +92,7 @@
 <div id="badges" align="center" >
   <a href="mailto:marcosjaviergomezh@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/marcos-j-gomez/">
+  <a href="https://www.linkedin.com/in/marcos-hollger/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
